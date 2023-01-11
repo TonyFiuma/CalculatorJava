@@ -14,6 +14,3 @@ power(double a, double b) - which returns "a" raised to "b"
 root(double a, double b) - which returns the bth root of "a"
 logarithm(double a, double b) - which returns the base "b" logarithm of "a"
 Modify the TestCalculator class to verify that the added methods work correctly.
-
-This is just one example and there are many other things you can do to extend this exercise, but it should
-give you an idea of ​​how to create a program in Java that uses classes and methods to implement a calculator.
